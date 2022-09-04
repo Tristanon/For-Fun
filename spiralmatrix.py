@@ -1,4 +1,4 @@
-n = int(input('Enter size of matrix: '))
+n = int(input('so hang cua matrix: '))
 dx, dy = 1,0
 x, y = 0,0
 spiral_matrix = [[None] * n for j in range(n)]
